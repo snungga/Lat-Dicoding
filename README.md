@@ -1,1 +1,2 @@
 # Lat-Dicoding
+latihan biasa
